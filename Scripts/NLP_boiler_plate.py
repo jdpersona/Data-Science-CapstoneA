@@ -10,9 +10,9 @@ from contextlib import closing
 from bs4 import BeautifulSoup
 
 natural_language_understanding = NaturalLanguageUnderstandingV1(
-  username="d386012c-29fc-4a11-99fc-6f8fb95605ee",
-  password="1pq4gRUMWvDe",
-  version='2017-02-27')
+  username=" ",
+  password=" ",
+  version='')
 
 
 
